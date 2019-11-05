@@ -9,5 +9,4 @@ public class Demo1
 	System.out.println(i);
     System.out.println(j);
 	}
-
 }
